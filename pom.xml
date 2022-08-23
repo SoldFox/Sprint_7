@@ -12,6 +12,9 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
+        <project.build.sourceEncoding>windows-1251</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>windows-1251</project.reporting.outputEncoding>
+
         <!-- версия Aspectj -->
         <aspectj.version>1.9.7</aspectj.version>
         <!-- версия Allure -->
